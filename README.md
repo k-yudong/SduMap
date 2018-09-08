@@ -1,2 +1,38 @@
 # SduMap
-山东大学青岛校区 地图APP
+*山东大学青岛校区 地图APP*
+
+
+又是一年新生入学时，徘徊在陌生的校园，你还因为不熟悉环境而在相似的教学楼前团团打转吗![f1](images/f3.png)？已经成为学长学姐，却还是因为天生路痴属性一次次迷失在必经之路上吗![f1](images/f4.png)？不用担心，这个APP来帮你！![f1](images/f2.png)![f1](images/f1.png)![f1](images/f1.png)
+
+### 下载
+
+[下载地址1](http://os5mqypso.bkt.clouddn.com/SduMap1.1.apk)
+
+[下载地址2](http://lc-wv1y3hjk.cn-n1.lcfile.com/917516cbe286774a82b4.apk)
+
+<img src="images/qrcode.png" width="300" hegiht="300" align=center />
+
+#### 当你刚从宿舍出来![f1](images/f6.png)
+<img src="images/img1.png" width="432" hegiht="768" align=center />
+
+#### 当你站在操场前![f1](images/f7.png)
+<img src="images/img2.png" width="432" hegiht="768" align=center />
+
+#### 当你迷失在建筑群中![f1](images/f8.png)
+<img src="images/img3.png" width="432" hegiht="768" align=center />
+
+#### 当你发现神奇的N3楼![f1](images/f5.png)![f1](images/f1.png)
+<img src="images/img4.png" width="432" hegiht="768" align=center />
+
+#### 不要忘了它自带指南针功能哦![f1](images/f7.png)
+<img src="images/img5.png" width="200" hegiht="200" align=center />
+
+定位功能要开启GPS哦，经过实测，室外定位还是挺准确的，有时刚开启时定位会不准确，过一会就好了。要是定位还是不准确，我也很无奈呀，还请大家谅解了。
+
+### 下载
+
+[下载地址1](http://os5mqypso.bkt.clouddn.com/SduMap1.1.apk)
+
+[下载地址2](http://lc-wv1y3hjk.cn-n1.lcfile.com/917516cbe286774a82b4.apk)
+
+<img src="images/qrcode.png" width="300" hegiht="300" align=center />
