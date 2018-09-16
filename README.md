@@ -22,6 +22,10 @@
 
 <img src="images/qrcode.png" width="300" hegiht="300" align=center />
 
+### 联系方式
+QQ **2300501648** (Yu Dong)![f1](images/f2.png)
+
+
 #### 当你刚从宿舍出来![f1](images/f6.png)
 <img src="images/img1.png" width="432" hegiht="768" align=center />
 
@@ -46,3 +50,6 @@
 [下载地址2](http://lc-wv1y3hjk.cn-n1.lcfile.com/917516cbe286774a82b4.apk)
 
 <img src="images/qrcode.png" width="300" hegiht="300" align=center />
+
+### 联系方式
+QQ **2300501648** (Yu Dong)![f1](images/f2.png)
