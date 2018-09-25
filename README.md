@@ -5,7 +5,7 @@
 
 [点我下载](http://os5mqypso.bkt.clouddn.com/MySdu2.0.apk)
 
-<img src="images/qrcode.png" width="300" hegiht="300" align=center />
+<img src="images/qrcode2.png" width="300" hegiht="300" align=center />
 
 ## Version 2.0
 添加课程表功能，随时随地看课程表，再也不用担心找不到教室了。
