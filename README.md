@@ -7,6 +7,9 @@
 
 <img src="images/qrcode2.png" width="300" hegiht="300" align=center />
 
+### 联系方式
+QQ **2300501648** (Yu Dong)![f1](images/f2.png)
+
 ## Version 2.0
 添加课程表功能，随时随地看课程表，再也不用担心找不到教室了。
 
