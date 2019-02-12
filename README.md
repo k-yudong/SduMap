@@ -3,7 +3,7 @@
 
 ### 下载
 
-[点我下载](http://os5mqypso.bkt.clouddn.com/MySdu2.0.apk)
+[点我下载](https://klen.top/u/mysdu)
 
 <img src="images/qrcode2.png" width="300" hegiht="300" align=center />
 
