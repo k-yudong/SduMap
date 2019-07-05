@@ -3,9 +3,9 @@
 
 ### 下载
 
-[点我下载](http://klen-public.oss-cn-qingdao.aliyuncs.com/MySdu2.0.apk)
+[【点我下载】](http://klen-public.oss-cn-qingdao.aliyuncs.com/MySdu2.0.apk)
 
-<img src="images/qrcode3.png" width="300" hegiht="300" align=center />
+<img src="images/qrcode3.png" width="400" hegiht="400" align=center />
 
 ### 联系方式
 QQ **2300501648** (Yu Dong)![f1](images/f2.png)
