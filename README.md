@@ -1,19 +1,38 @@
-# MySdu
-*课程表 + 山东大学青岛校区地图*   (原名SduMap)
-
+# MySdu - 轻量简洁的山大小助手
 ### 下载
 
-[【点我下载】](http://klen-public.oss-cn-qingdao.aliyuncs.com/MySdu2.0.apk)
+[【点我下载】](http://k-yudong.gitee.io/my-sdu/html/down/)
 
-<img src="images/qrcode3.png" width="400" hegiht="400" align=center />
+<img src="images/qrcode.png" width="400" hegiht="400" align=center />
+
+### 三大功能：
+* 【**校区地图**】精确定位，高清地图，让你校园内不再迷路（特色功能）
+* 【**课程表**】山大课程表，点击课程还可添加备注（可以记作业、实验室房间号）
+* 【**成绩查询**】一键查询成绩，轻松便捷
+
+
 
 ### 联系方式
+
 QQ **2300501648** (Yu Dong)![f1](images/f2.png)
 
+
+
+## Version 3.0
+
+* 新增成绩查询功能
+* 课程表中的课程支持添加备注
+* 完美兼容最新安卓
+
+
+
 ## Version 2.0
+
 添加课程表功能，随时随地看课程表，再也不用担心找不到教室了。
 
 上了大学，上课方式和高中有了很大的不同，而现有的查课程表的方式个人认为都不够方便![f1](images/f2.png)，于是决定自己做一个课程表![f1](images/f1.png)。这个课程表就放在手机桌面上，打开方便，界面简洁，在第一次刷新以后无需联网就可以看随时随地看课表。我个人觉得挺方便的，于是和我之前做的的SduMap中的地图功能融合进一个APP，并更名为MySdu。欢迎大家下载体验![f1](images/f7.png)。
+
+
 
 ## Version 1.1
 又是一年新生入学时，徘徊在陌生的校园，你还因为不熟悉环境而在相似的教学楼前团团打转吗![f1](images/f3.png)？已经成为学长学姐，却还是因为天生路痴属性一次次迷失在必经之路上吗![f1](images/f4.png)？不用担心，这个APP来帮你！![f1](images/f2.png)![f1](images/f1.png)![f1](images/f1.png)
